@@ -12,11 +12,11 @@ import org.junit.runner.RunWith;
         dryRun =false,
         monochrome = true,
         plugin = {"pretty",
-                "json:target/cucumber-reports/Cucumber.json",
-                "io.qameta.allure.cucumber6jvm.AllureCucumber6Jvm"}
+                "json:target/cucumber-reports/Cucumber.json"
+        }
 )
 public class RunnerTest
 {
-    //"html:target/cucumber-reports/cucumber.html"
+
 }
 

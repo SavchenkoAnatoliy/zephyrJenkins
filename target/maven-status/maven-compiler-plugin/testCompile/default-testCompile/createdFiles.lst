@@ -1,2 +1,4 @@
 StepDefinitions\JiraCloudSteps.class
 TestRunner\RunnerTest.class
+StepDefinitions\ApplicationHooks.class
+utils\BaseClass.class
