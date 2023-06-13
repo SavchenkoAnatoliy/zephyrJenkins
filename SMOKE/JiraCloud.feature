@@ -1,6 +1,6 @@
 Feature: Jira connection test
 
-  @Labels(TEST_MOL_REDESIGN)
+  @TEST_MOL_REDESIGN
   Scenario: LabelExistTest
     Given user start to test
     When user on test page
