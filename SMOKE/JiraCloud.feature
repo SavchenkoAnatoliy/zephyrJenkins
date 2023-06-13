@@ -1,9 +1,9 @@
 Feature: Jira connection test
 
-  @Labels(Anatoliy)
-  @Priority(High)
-  @Component(Logout)
-  Scenario: JenkinsTest
+  @Labels=Anatoliy
+  @Priority=High
+  @Component=Logout
+  Scenario: LabelTest
     Given user start to test
     When user on test page
     And user click to the button
