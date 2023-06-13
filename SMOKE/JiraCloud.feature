@@ -1,5 +1,8 @@
 Feature: Jira connection test
 
+  @Labels(Anatoliy)
+  @Priority(High)
+  @Component(Logout)
   Scenario: JenkinsTest
     Given user start to test
     When user on test page
