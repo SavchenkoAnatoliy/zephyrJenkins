@@ -1,3 +1,4 @@
+@Priority(High)
 Feature: Jira connection test
 
   @TEST_MOL_REDESIGN
